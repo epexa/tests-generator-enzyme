@@ -1,0 +1,15 @@
+{
+  "name": "tests-generator-enzyme",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "epexa",
+  "license": "MIT",
+  "dependencies": {
+    "babylon": "^6.18.0",
+    "inquirer": "^6.4.1"
+  }
+}
